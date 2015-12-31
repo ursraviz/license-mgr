@@ -30,7 +30,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Dates and date Formats
+    | Dates and Date Formats
     |--------------------------------------------------------------------------
     */
     'minStartDate'   => '2015-01-01',               // So we don't have licenses that start before this
